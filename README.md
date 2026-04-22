@@ -2,29 +2,6 @@
 
 Backend server for Foodlytics - Nutrient Analysis Made Easy, built with Node.js.
 
-## Project Structure
-Foodlytics-Backend/
-├── config/
-│   └── database.js        
-├── controllers/
-│   ├── analyticsController.js
-│   ├── authController.js
-│   ├── chatbotController.js
-│   ├── historyController.js
-│   └── productController.js
-├── middleware/
-│   ├── auth.js
-│   └── consoleLogger.js
-├── models/
-│   ├── ChatConversation.js
-│   ├── ScanHistory.js
-│   ├── User.js
-│   └── UserAnalytics.js
-├── routes/
-├── services/
-├── uploads/
-└── server.js
-
 ## Features
 - User Authentication & Authorization
 - Food Product Scanning & Analysis
